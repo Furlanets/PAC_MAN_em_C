@@ -1,0 +1,40 @@
+D:\PUC-CAMPINAS\ALGORITMOS E LINGUAGEM DE PROGRAMACAO\SOFTWARE\JOGO001\JOGO001\obj\Debug\JOGO001.csproj.AssemblyReference.cache
+D:\PUC-CAMPINAS\ALGORITMOS E LINGUAGEM DE PROGRAMACAO\SOFTWARE\JOGO001\JOGO001\obj\Debug\JOGO001.Form1.resources
+D:\PUC-CAMPINAS\ALGORITMOS E LINGUAGEM DE PROGRAMACAO\SOFTWARE\JOGO001\JOGO001\obj\Debug\JOGO001.Properties.Resources.resources
+D:\PUC-CAMPINAS\ALGORITMOS E LINGUAGEM DE PROGRAMACAO\SOFTWARE\JOGO001\JOGO001\obj\Debug\JOGO001.csproj.GenerateResource.cache
+D:\PUC-CAMPINAS\ALGORITMOS E LINGUAGEM DE PROGRAMACAO\SOFTWARE\JOGO001\JOGO001\obj\Debug\JOGO001.csproj.CoreCompileInputs.cache
+D:\PUC-CAMPINAS\ALGORITMOS E LINGUAGEM DE PROGRAMACAO\SOFTWARE\JOGO001\JOGO001\bin\Debug\JOGO001.exe.config
+D:\PUC-CAMPINAS\ALGORITMOS E LINGUAGEM DE PROGRAMACAO\SOFTWARE\JOGO001\JOGO001\bin\Debug\JOGO001.exe
+D:\PUC-CAMPINAS\ALGORITMOS E LINGUAGEM DE PROGRAMACAO\SOFTWARE\JOGO001\JOGO001\bin\Debug\JOGO001.pdb
+D:\PUC-CAMPINAS\ALGORITMOS E LINGUAGEM DE PROGRAMACAO\SOFTWARE\JOGO001\JOGO001\obj\Debug\JOGO001.exe
+D:\PUC-CAMPINAS\ALGORITMOS E LINGUAGEM DE PROGRAMACAO\SOFTWARE\JOGO001\JOGO001\obj\Debug\JOGO001.pdb
+C:\Users\vinicius\Documents\Projetos\Mendeleck\Jogo001-Vini\JOGO001\bin\Debug\JOGO001.exe.config
+C:\Users\vinicius\Documents\Projetos\Mendeleck\Jogo001-Vini\JOGO001\bin\Debug\JOGO001.exe
+C:\Users\vinicius\Documents\Projetos\Mendeleck\Jogo001-Vini\JOGO001\bin\Debug\JOGO001.pdb
+C:\Users\vinicius\Documents\Projetos\Mendeleck\Jogo001-Vini\JOGO001\obj\Debug\JOGO001.csproj.AssemblyReference.cache
+C:\Users\vinicius\Documents\Projetos\Mendeleck\Jogo001-Vini\JOGO001\obj\Debug\JOGO001.Form1.resources
+C:\Users\vinicius\Documents\Projetos\Mendeleck\Jogo001-Vini\JOGO001\obj\Debug\JOGO001.Properties.Resources.resources
+C:\Users\vinicius\Documents\Projetos\Mendeleck\Jogo001-Vini\JOGO001\obj\Debug\JOGO001.csproj.GenerateResource.cache
+C:\Users\vinicius\Documents\Projetos\Mendeleck\Jogo001-Vini\JOGO001\obj\Debug\JOGO001.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\Documents\Projetos\Mendeleck\Jogo001-Vini\JOGO001\obj\Debug\JOGO001.exe
+C:\Users\vinicius\Documents\Projetos\Mendeleck\Jogo001-Vini\JOGO001\obj\Debug\JOGO001.pdb
+C:\Users\vinicius\Documents\Projetos\Mendeleck\Projeto PacMan\JOGO001\bin\Debug\JOGO001.exe.config
+C:\Users\vinicius\Documents\Projetos\Mendeleck\Projeto PacMan\JOGO001\bin\Debug\JOGO001.exe
+C:\Users\vinicius\Documents\Projetos\Mendeleck\Projeto PacMan\JOGO001\bin\Debug\JOGO001.pdb
+C:\Users\vinicius\Documents\Projetos\Mendeleck\Projeto PacMan\JOGO001\obj\Debug\JOGO001.csproj.AssemblyReference.cache
+C:\Users\vinicius\Documents\Projetos\Mendeleck\Projeto PacMan\JOGO001\obj\Debug\JOGO001.Form1.resources
+C:\Users\vinicius\Documents\Projetos\Mendeleck\Projeto PacMan\JOGO001\obj\Debug\JOGO001.Properties.Resources.resources
+C:\Users\vinicius\Documents\Projetos\Mendeleck\Projeto PacMan\JOGO001\obj\Debug\JOGO001.csproj.GenerateResource.cache
+C:\Users\vinicius\Documents\Projetos\Mendeleck\Projeto PacMan\JOGO001\obj\Debug\JOGO001.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\Documents\Projetos\Mendeleck\Projeto PacMan\JOGO001\obj\Debug\JOGO001.exe
+C:\Users\vinicius\Documents\Projetos\Mendeleck\Projeto PacMan\JOGO001\obj\Debug\JOGO001.pdb
+C:\Users\acfur\Desktop\Segundo-semestre\algoritmos pratica\pacman25-10\JOGO001\bin\Debug\JOGO001.exe.config
+C:\Users\acfur\Desktop\Segundo-semestre\algoritmos pratica\pacman25-10\JOGO001\bin\Debug\JOGO001.exe
+C:\Users\acfur\Desktop\Segundo-semestre\algoritmos pratica\pacman25-10\JOGO001\bin\Debug\JOGO001.pdb
+C:\Users\acfur\Desktop\Segundo-semestre\algoritmos pratica\pacman25-10\JOGO001\obj\Debug\JOGO001.csproj.AssemblyReference.cache
+C:\Users\acfur\Desktop\Segundo-semestre\algoritmos pratica\pacman25-10\JOGO001\obj\Debug\JOGO001.Form1.resources
+C:\Users\acfur\Desktop\Segundo-semestre\algoritmos pratica\pacman25-10\JOGO001\obj\Debug\JOGO001.Properties.Resources.resources
+C:\Users\acfur\Desktop\Segundo-semestre\algoritmos pratica\pacman25-10\JOGO001\obj\Debug\JOGO001.csproj.GenerateResource.cache
+C:\Users\acfur\Desktop\Segundo-semestre\algoritmos pratica\pacman25-10\JOGO001\obj\Debug\JOGO001.csproj.CoreCompileInputs.cache
+C:\Users\acfur\Desktop\Segundo-semestre\algoritmos pratica\pacman25-10\JOGO001\obj\Debug\JOGO001.exe
+C:\Users\acfur\Desktop\Segundo-semestre\algoritmos pratica\pacman25-10\JOGO001\obj\Debug\JOGO001.pdb

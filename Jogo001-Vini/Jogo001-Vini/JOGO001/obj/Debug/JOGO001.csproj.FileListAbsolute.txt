@@ -1,0 +1,17 @@
+D:\PUC-CAMPINAS\ALGORITMOS E LINGUAGEM DE PROGRAMACAO\SOFTWARE\JOGO001\JOGO001\obj\Debug\JOGO001.csproj.AssemblyReference.cache
+D:\PUC-CAMPINAS\ALGORITMOS E LINGUAGEM DE PROGRAMACAO\SOFTWARE\JOGO001\JOGO001\obj\Debug\JOGO001.Form1.resources
+D:\PUC-CAMPINAS\ALGORITMOS E LINGUAGEM DE PROGRAMACAO\SOFTWARE\JOGO001\JOGO001\obj\Debug\JOGO001.Properties.Resources.resources
+D:\PUC-CAMPINAS\ALGORITMOS E LINGUAGEM DE PROGRAMACAO\SOFTWARE\JOGO001\JOGO001\obj\Debug\JOGO001.csproj.GenerateResource.cache
+D:\PUC-CAMPINAS\ALGORITMOS E LINGUAGEM DE PROGRAMACAO\SOFTWARE\JOGO001\JOGO001\obj\Debug\JOGO001.csproj.CoreCompileInputs.cache
+D:\PUC-CAMPINAS\ALGORITMOS E LINGUAGEM DE PROGRAMACAO\SOFTWARE\JOGO001\JOGO001\bin\Debug\JOGO001.exe.config
+D:\PUC-CAMPINAS\ALGORITMOS E LINGUAGEM DE PROGRAMACAO\SOFTWARE\JOGO001\JOGO001\bin\Debug\JOGO001.exe
+D:\PUC-CAMPINAS\ALGORITMOS E LINGUAGEM DE PROGRAMACAO\SOFTWARE\JOGO001\JOGO001\bin\Debug\JOGO001.pdb
+D:\PUC-CAMPINAS\ALGORITMOS E LINGUAGEM DE PROGRAMACAO\SOFTWARE\JOGO001\JOGO001\obj\Debug\JOGO001.exe
+D:\PUC-CAMPINAS\ALGORITMOS E LINGUAGEM DE PROGRAMACAO\SOFTWARE\JOGO001\JOGO001\obj\Debug\JOGO001.pdb
+C:\Users\acfur\Desktop\Segundo-semestre\algoritmos pratica\Jogo001-Vini\Jogo001-Vini\JOGO001\obj\Debug\JOGO001.csproj.AssemblyReference.cache
+C:\Users\acfur\Desktop\Segundo-semestre\algoritmos pratica\Jogo001-Vini\Jogo001-Vini\JOGO001\obj\Debug\JOGO001.Form1.resources
+C:\Users\acfur\Desktop\Segundo-semestre\algoritmos pratica\Jogo001-Vini\Jogo001-Vini\JOGO001\obj\Debug\JOGO001.Properties.Resources.resources
+C:\Users\acfur\Desktop\Segundo-semestre\algoritmos pratica\Jogo001-Vini\Jogo001-Vini\JOGO001\obj\Debug\JOGO001.csproj.GenerateResource.cache
+C:\Users\acfur\Desktop\Segundo-semestre\algoritmos pratica\Jogo001-Vini\Jogo001-Vini\JOGO001\obj\Debug\JOGO001.csproj.CoreCompileInputs.cache
+C:\Users\acfur\Desktop\Segundo-semestre\algoritmos pratica\Jogo001-Vini\Jogo001-Vini\JOGO001\obj\Debug\JOGO001.exe
+C:\Users\acfur\Desktop\Segundo-semestre\algoritmos pratica\Jogo001-Vini\Jogo001-Vini\JOGO001\obj\Debug\JOGO001.pdb
